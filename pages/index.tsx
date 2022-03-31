@@ -12,10 +12,7 @@ const Home: NextPage = () => {
 
       <main className="flex w-full flex-1 flex-col items-center justify-center px-20 text-center">
         <h1 className="text-6xl font-bold text-white mb-6">
-          Welcome to{' '}
-          <span className="text-yellow-500 font-extrabold">
-            BEKACHI
-          </span>
+          Welcome to
         </h1>
 
         <img src="/bekachi.png" className="my-6 w-8/12 lg:w-4/12" alt="" />
