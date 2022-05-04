@@ -46,7 +46,7 @@ objectFit: "cover",
   </div>
   <section className="mx-20 mt-20">
       <h1 className="text-4xl lg:text-7xl text-center  text-white font-bold">
-        FLAVOURS <br /> ON <span className="text-yellow-600">DEMAND</span> ! </h1> <br />
+        FLAVOURS <br /> ON <span className="text-yellow-600">DEMAND</span></h1> <br />
 
        <div className="flex justify-center mt-5">
        <button className="bg-yellow-600 hover:bg-yellow-700 font-bold text-2xl px-12 py-5 rounded-xl"
