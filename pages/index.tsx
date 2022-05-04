@@ -19,6 +19,8 @@ useEffect(() => {
         <Head>
         <title>BEKACHI</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="description" content="Flavours on demand." />
+
       </Head>
     <div className="fixed top-0 bottom-0 bg-black bg-opacity-60" 
     style={{
