@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+
+body{
+    overflow-x: hidden;
+}
 .background-video{
 
     height: 100%;
@@ -13,4 +17,15 @@
     position: fixed; /* optional depending on what you want to do in your app */
     
     
+    }
+    .menu-item{
+        color:#000;
+        margin: 0 1.2rem;
+        transition: all 0.3s ease-in-out;
+        
+    
+    }
+    .menu-item:hover{
+        color:#245CD1;
+       transform: translateY(-0.3rem);
     }
